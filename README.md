@@ -1,2 +1,2 @@
 # study
-computer knowledge study notes
+study notes for computer knowledge
